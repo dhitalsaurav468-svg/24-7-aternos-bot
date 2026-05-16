@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dhurandhar0.aternos.me",
-    "port": 57648,
+    "ip": "Gurkhasmp7.aternos.me"
+",
+    "port": 36722,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +33,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "Saurav is the immortal demon",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
